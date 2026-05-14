@@ -132,4 +132,4 @@ without manual intervention.
 
 # Sample Architecture Flow
 ## Architecture Diagram
-![AWS ETL Pipeline](Architecture/pipeline_path_flow.png)
+![AWS ETL Pipeline](Architecture/pipeline_pathflow.png)
