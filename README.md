@@ -1,4 +1,4 @@
-# Automated AWS ETL Pipeline for Support Ticket Analytics
+# Automated AWS ETL Pipeline 
 
 ## Project Overview
 
