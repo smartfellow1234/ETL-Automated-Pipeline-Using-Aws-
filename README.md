@@ -398,8 +398,5 @@ without manual intervention.
 ---
 
 # Sample Architecture Flow
-       Power BI
-```
-
-
-```
+## Architecture Diagram
+![AWS ETL Pipeline](Architecture/pipeline_path_flow.png)
